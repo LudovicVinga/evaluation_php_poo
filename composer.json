@@ -1,0 +1,25 @@
+{
+    "name": "lving/evaluation_php_poo",
+    "description": "Knowledge test about php programming",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ludovic V",
+            "email": "vinga.ludovic@gmail.com",
+            "role": "developper"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable":true,
+    "require": {},
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
